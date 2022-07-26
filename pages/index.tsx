@@ -22,7 +22,7 @@ const Home: NextPage = () => {
 };
 
 const Container = tw.div`
-  w-screen
+  w-full
   h-screen
   bg-black
   text-gray-100

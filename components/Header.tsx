@@ -17,6 +17,8 @@ const Container = tw.div`
   flex
   justify-center
   h-20
+	mt-4
+	mb-[-50px]
 `;
 
 const HeaderContainer = tw.div``;
