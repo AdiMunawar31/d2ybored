@@ -1,6 +1,5 @@
 import type { NextPage } from 'next';
 import Head from 'next/head';
-import Image from 'next/image';
 import tw from 'tailwind-styled-components/dist/tailwind';
 import Footer from '../components/Footer';
 import Header from '../components/Header';
